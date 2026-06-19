@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+dist/
+build/
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+.next/
+out/
+*.local
+
+# Docker
+*.log
+data/
+msp-registry/
+
+# OS
+.DS_Store
+Thumbs.db
